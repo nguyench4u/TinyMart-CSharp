@@ -1,7 +1,11 @@
-Chau Nguyen  
 HW5 
 Principles of Programming Language  
-Sung Nam  
+
+## **What is the purpose of this program?** ##
+When you run the program, TinyMart simulates a shopping cart experience using a catalog of different product types:
+- Products are created using classes such as AudioProduct, VideoProduct, EBook, and PaperBook. 
+- The cart can hold up to 7 of these items. 
+- The cart can add, remove, display, search, and save the cart to your files. 
 
 ## **How to execute my C# Program:** ##
 
@@ -14,7 +18,8 @@ Execution Steps:
 5. Add all my other class files in the same folder (AudioProduct.cs, BookProduct.cs, Cart.cs, Ebook.cs, NameType.cs, Paperbook.cs, Product.cs, VideoProduct.cs, zEnums.cs)
 6. Run 'dotnet build' 
 7. Then run 'dotnet run' || 'dotnet watch run' for testing 
-8. It should output my shopping cart for Chau Nguyen! 
+8. It should output my shopping cart for Chau Nguyen! The Extra Credit portion will also ask you to search for a product and then it will save a copy of the cart in .txt. 
+9. If you want to edit it for yourself, modify Program.cs to change product names, prices, and attributes to see them in the output. 
 
 
 ### **Replit Server:** ###
@@ -25,5 +30,5 @@ Execution Steps:
 
 ## **EXTRA CREDIT:** ##
 - My implementation of the Extra Credit is only compatible with .NET SDK 8.0+, and Replit only uses 7.0.
-- You will have to see my extra credit from my implementation files and I can provide a screenshot with output file. 
+- You will have to see my extra credit from my implementation files and I can provide a screenshot with output file. (Download these files instead and onto VSCode)
 - The only extra credit I finished was saving the cart into file and searching for the product. 
