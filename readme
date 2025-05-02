@@ -7,7 +7,7 @@ Sung Nam
 
 ### **Locally:** ###
 Execution Steps:
-1. Ensure that .NET SDK (8.0 or newer) is installed
+1. Ensure that .NET SDK (8.0 or newer) is installed. Find the latest installation here: https://dotnet.microsoft.com/en-us/download
 2. Check version by opening cmd terminal and type 'dotnet --version' 
 3. Create an empty folder (TinyMart) and type 'dotnet new console' (this creates Program.cs and projectname.csproj and other files)
 4. Paste in my main program or replace the file (make sure it is named Program.cs)
