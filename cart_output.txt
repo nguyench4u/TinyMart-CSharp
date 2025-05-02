@@ -1,0 +1,5 @@
+Audio,Yesterday,16.5,Beetles,Pop,9.8
+Audio,We are the World,13.75,Michael Jackson,Country,9.1
+Audio,Gangnam Style,10.5,PSY,Pop,9.5
+Video,Star Wars,22,George Lucas,1977,120,PG,8.5
+PaperBook,Attack on Titan,7.5,Hajime Isayama,210,9.9
